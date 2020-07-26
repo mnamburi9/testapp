@@ -1,0 +1,12 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "testapp sat build",
+  "main": "index.js",
+  "author": "manoj",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react-transition-group": "^4.4.1"
+  }
+}
